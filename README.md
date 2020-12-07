@@ -10,3 +10,4 @@ Project Ideas for training in new technologies
 7. Chat app 
 8. Movie search 
 9. Portfolio 
+10. Coding funny errors and messages portfolio
