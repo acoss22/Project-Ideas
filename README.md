@@ -41,6 +41,11 @@ Project Ideas for training in new technologies
 38. Dynamically change CSS variable settings
 39. Generate random meals
 40. Password Generator
+41. Weather App
+42. Calculate word frequency in a block of text
+43. Charity Finder App
+44. Chrome Theme Extension
+
 
 
 
