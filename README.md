@@ -20,3 +20,9 @@ Project Ideas for training in new technologies
 17. Coding Jokes
 18. Chat App / Messaging App
 19. Localization App
+20. Shopping List App
+21. Tax Calculator
+22. Image Slider
+23. Voting System
+24. Hangman Game
+
