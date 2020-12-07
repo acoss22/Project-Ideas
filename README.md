@@ -45,6 +45,22 @@ Project Ideas for training in new technologies
 42. Calculate word frequency in a block of text
 43. Charity Finder App
 44. Chrome Theme Extension
+45. Emoji Translator App
+46. Flashcards App
+47. Create polls to decide what games to play
+48. Highstriker strongman carnival game
+49. Image Scanner
+50. Meme Generator
+51. QR Code Badge Generator
+52. Regular Expression Helper
+53. This or That Game or generator
+54. Calendar
+55. Elevator
+56. Instagram Clone	
+57. MyPodcast Library
+58. Shell Game
+
+
 
 
 
