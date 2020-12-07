@@ -59,6 +59,13 @@ Project Ideas for training in new technologies
 56. Instagram Clone	
 57. MyPodcast Library
 58. Shell Game
+59. What to cook with these ingredient(s)?
+60. Pong
+61. Space Race
+62. Jet Fighter
+63. Space Invaders
+64. Snake
+
 
 
 
