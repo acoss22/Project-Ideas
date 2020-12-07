@@ -30,4 +30,10 @@ Project Ideas for training in new technologies
 27. Drawing
 28. Online Store
 29. Calorie Counter
+30. Roman Numeral to Decimal numbers Converter
+31. Table Generator
+32. Spell-It 
+33. Survey 
+
+
 
