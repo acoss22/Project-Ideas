@@ -18,4 +18,5 @@ Project Ideas for training in new technologies
 15. Timer
 16. Progress bar
 17.Coding Jokes
+18. Chat App / Messaging App
 
