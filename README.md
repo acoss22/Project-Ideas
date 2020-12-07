@@ -2,7 +2,7 @@
 Project Ideas for training in new technologies 
 
 1. Calculator app
-2. Measure converter app (C° to F°...)
+2. Measure converter (C° to F°...)
 3. Currency calculator 
 4. To do list
 5. Quiz app
@@ -18,11 +18,16 @@ Project Ideas for training in new technologies
 15. Timer
 16. Progress bar
 17. Coding Jokes
-18. Chat App / Messaging App
+18. Chat App / Messaging
 19. Localization App
 20. Shopping List App
 21. Tax Calculator
 22. Image Slider
 23. Voting System
 24. Hangman Game
+25. FlipImage
+26. Book 
+27. Drawing
+28. Online Store
+29. Calorie Counter
 
