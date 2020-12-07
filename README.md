@@ -38,6 +38,9 @@ Project Ideas for training in new technologies
 35. Border Radius Previewer
 36. Christmas Lights
 37. CSV to JSON converter
+38. Dynamically change CSS variable settings
+39. Generate random meals
+40. Password Generator
 
 
 
