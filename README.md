@@ -34,6 +34,10 @@ Project Ideas for training in new technologies
 31. Table Generator
 32. Spell-It 
 33. Survey 
+34. Binary-to-Decimal number converter
+35. Border Radius Previewer
+36. Christmas Lights
+37. CSV to JSON converter
 
 
 
