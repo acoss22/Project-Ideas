@@ -19,4 +19,4 @@ Project Ideas for training in new technologies
 16. Progress bar
 17. Coding Jokes
 18. Chat App / Messaging App
-
+19. Localization App
