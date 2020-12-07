@@ -11,3 +11,10 @@ Project Ideas for training in new technologies
 8. Movie search 
 9. Portfolio 
 10. Coding funny errors and messages portfolio
+11. Memory game JS.
+12. Photo gallery 
+13. Form validation 
+14. Clock
+15. Timer
+16. Progress bar
+17.Coding Jokes
