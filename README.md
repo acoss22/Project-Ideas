@@ -65,8 +65,8 @@ Project Ideas for training in new technologies
 62. Jet Fighter
 63. Space Invaders
 64. Snake
-
-
+65. Voice Changer
+66. URL Shortener
 
 
 
