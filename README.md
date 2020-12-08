@@ -67,7 +67,7 @@ Project Ideas for training in new technologies
 64. Snake
 65. Voice Changer
 66. URL Shortener
-67. Raffle App
+67. Raffle App / Giveaway Winner 
 
 
 
