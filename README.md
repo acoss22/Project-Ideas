@@ -68,6 +68,13 @@ Project Ideas for training in new technologies
 65. Voice Changer
 66. URL Shortener
 67. Raffle App / Giveaway Winner 
+68. Apply and remove css app
+69. Tribute website  app 
+70. Spotify  clone 
+71. Temporary challenge maker
+72. Calendar generator app
+73. Roadmap maker app 
+
 
 
 
