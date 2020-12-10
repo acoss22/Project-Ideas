@@ -74,7 +74,7 @@ Project Ideas for training in new technologies
 71. Temporary challenge maker
 72. Calendar generator app
 73. Roadmap maker app 
-
+74. Face recognition app
 
 
 
