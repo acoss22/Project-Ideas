@@ -75,6 +75,7 @@ Project Ideas for training in new technologies
 72. Calendar generator app
 73. Roadmap maker app 
 74. Face recognition app
+75. Blog website 
 
 
 
