@@ -76,7 +76,7 @@ Project Ideas for training in new technologies
 73. Roadmap maker app 
 74. Face recognition app
 75. Blog website 
-
+76. Theme changer app 
 
 
 
