@@ -80,6 +80,6 @@ Project Ideas for training in new technologies
 77. E-Commerce 
 78. Neural Network
 79. PWA
-
+80. Virtual Music Instrument
 
 
