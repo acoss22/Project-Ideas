@@ -77,7 +77,9 @@ Project Ideas for training in new technologies
 74. Face recognition app
 75. Blog website 
 76. Theme changer app 
-
+77. E-Commerce 
+78. Neural Network
+79. PWA
 
 
 
