@@ -82,5 +82,6 @@ Project Ideas for training in new technologies
 79. PWA
 80. Virtual Music Instrument
 81. Type Speed Test
+82. Internet Speed Test 
 
 
