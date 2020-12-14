@@ -84,5 +84,9 @@ Project Ideas for training in new technologies
 81. Type Speed Test
 82. Internet Speed Test 
 83. Restaurant app
+84. Books search app 
+85. Movies search 
+86. Find a tv show!
+86. Image search app and upload feature (using a storage service)
 
 
