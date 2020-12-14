@@ -87,6 +87,8 @@ Project Ideas for training in new technologies
 84. Books search app 
 85. Movies search 
 86. Find a tv show!
-86. Image search app and upload feature (using a storage service)
-
+87. Image search app and upload feature (using a storage service)
+88. Pokemon Database
+89. Contact List
+90. Birthday Reminder 
 
