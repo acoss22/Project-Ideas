@@ -92,4 +92,9 @@ Project Ideas for training in new technologies
 89. Contact List
 90. Birthday Reminder 
 91. Advent Calendar (Cards Flipable example)
+92. Days until New Year
+93. Days until Christmas
+94. Calendar with Holidays from specific country 
+
+
 
