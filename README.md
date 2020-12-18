@@ -95,6 +95,6 @@ Project Ideas for training in new technologies
 92. Days until New Year
 93. Days until Christmas
 94. Calendar with Holidays from specific country 
-
+95. Birthday Calendar or Manager (add all of your contact's birthdays) 
 
 
