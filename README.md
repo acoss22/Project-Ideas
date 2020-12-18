@@ -96,5 +96,6 @@ Project Ideas for training in new technologies
 93. Days until Christmas
 94. Calendar with Holidays from specific country 
 95. Birthday Calendar or Manager (add all of your contact's birthdays) 
+96. Youtube transcription app (gets the script from the speech with an api)
 
 
