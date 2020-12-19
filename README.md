@@ -15,7 +15,7 @@ Project Ideas for training in new technologies
 12. Photo gallery 
 13. Form validation 
 14. Clock
-15. Timer
+15. Timer app- Timer game like "your virtual cottage" 
 16. Progress bar
 17. Coding Jokes
 18. Chat App / Messaging
