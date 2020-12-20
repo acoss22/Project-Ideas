@@ -8,7 +8,7 @@ Project Ideas for training in new technologies
 5. Quiz app
 6. Recipes apps
 7. Chat app 
-8. Movie search 
+8. Movie search
 9. Portfolio 
 10. Coding funny errors and messages portfolio
 11. Memory game JS.
@@ -96,6 +96,9 @@ Project Ideas for training in new technologies
 93. Days until Christmas
 94. Calendar with Holidays from specific country 
 95. Birthday Calendar or Manager (add all of your contact's birthdays) 
-96. Youtube transcription app (gets the script from the speech with an api)
+96. Youtube transcription app (gets the script from the speech with an api
+97. Sticky notes app  / Reminders app
+98. Chat bot 
+
 
 
