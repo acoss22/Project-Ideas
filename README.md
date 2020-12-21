@@ -98,5 +98,6 @@ Project Ideas for training in new technologies
 95. Birthday Calendar or Manager (add all of your contact's birthdays) 
 96. Youtube transcription app (gets the script from the speech with an api)
 97. Useful Links Organizer (My useful links app)
-
+98. Online collection (upload your photos and group them into lists, example ps4 games collection)
+99. 
 
