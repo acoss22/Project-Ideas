@@ -1,4 +1,4 @@
-# Project-Ideas
+# Coding Project-Ideas
 Project Ideas for training in new technologies 
 
 1. Calculator app
