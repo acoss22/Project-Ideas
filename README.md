@@ -101,4 +101,5 @@ Project Ideas for training in new technologies
 98. Online collection (upload your photos and group them into lists, example ps4 games collection)
 99. Code snippets project, like 30 seconds of code
 100. Learning website like the odin project 
+101. Like Codemyui - collection of codepens
 
