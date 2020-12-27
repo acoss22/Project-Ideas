@@ -99,5 +99,6 @@ Project Ideas for training in new technologies
 96. Youtube transcription app (gets the script from the speech with an api)
 97. Useful Links Organizer (My useful links app)
 98. Online collection (upload your photos and group them into lists, example ps4 games collection)
-99. 
+99. Code snippets project, like 30 seconds of code
+100. Learning website like the odin project 
 
