@@ -103,4 +103,5 @@ Project Ideas for training in new technologies
 100. Learning website like the odin project 
 101. Like Codemyui - collection of codepens
 102. Shortcuts website like https://shortcuts.design/
+103. Website for awareness / useful information (example: what you should know about cats for pets)
 
