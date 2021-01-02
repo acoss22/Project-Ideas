@@ -104,4 +104,4 @@ Project Ideas for training in new technologies
 101. Like Codemyui - collection of codepens
 102. Shortcuts website like https://shortcuts.design/
 103. Website for awareness / useful information (example: what you should know about cats for pets)
-
+104. Make a reusable isolated component and share it on bit.dev
