@@ -105,3 +105,5 @@ Project Ideas for training in new technologies
 102. Shortcuts website like https://shortcuts.design/
 103. Website for awareness / useful information (example: what you should know about cats for pets)
 104. Make a reusable isolated component and share it on bit.dev
+105. Make an iddle game (example: Leaf Blower Revolution game) based on  mouse movement (not a clicker)
+106. Make a clicker game
