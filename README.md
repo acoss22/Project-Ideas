@@ -107,3 +107,4 @@ Project Ideas for training in new technologies
 104. Make a reusable isolated component and share it on bit.dev
 105. Make an iddle game (example: Leaf Blower Revolution game) based on  mouse movement (not a clicker)
 106. Make a clicker game
+107. Make a JSON Parser website
