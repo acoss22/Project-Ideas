@@ -108,3 +108,4 @@ Project Ideas for training in new technologies
 105. Make an iddle game (example: Leaf Blower Revolution game) based on  mouse movement (not a clicker)
 106. Make a clicker game
 107. Make a JSON Parser website
+108. Live poll web app
