@@ -110,3 +110,10 @@ Project Ideas for training in new technologies
 107. Make a JSON Parser website
 108. Live poll web app
 109. Who called me web app (example: ligaram.me.com)
+110. BMI Calculator
+111. Background Color Switcher
+112. Tip Calculator (by country for example to be more complex)
+113. Random quotes generator
+114. Scientific Calculator
+115. Login Authentication
+116. 
