@@ -115,5 +115,5 @@ Project Ideas for training in new technologies
 112. Tip Calculator (by country for example to be more complex)
 113. Random quotes generator
 114. Scientific Calculator
-115. Login Authentication
+115. Login Authentication (login with google, github, facebook, etc...)
 116. Age Converter (years into days, human years to cat years, human years to dog)
