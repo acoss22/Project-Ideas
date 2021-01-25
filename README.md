@@ -117,3 +117,4 @@ Project Ideas for training in new technologies
 114. Scientific Calculator
 115. Login Authentication (login with google, github, facebook, etc...)
 116. Age Converter (years into days, human years to cat years, human years to dog)
+117. Cake shop
