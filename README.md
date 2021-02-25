@@ -119,3 +119,4 @@ Project Ideas for training in new technologies
 116. Age Converter (years into days, human years to cat years, human years to dog)
 117. Cake shop
 118. Horoscope calculator (Zodiac, chinese zodiac, astral etc...)
+119. Mousepad Customizar , add text on image , change colour, add an image, center or full image size to the mousepad
