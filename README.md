@@ -121,3 +121,4 @@ Project Ideas for training in new technologies
 118. Horoscope calculator (Zodiac, chinese zodiac, astral etc...)
 119. Mousepad Customizar , add text on image , change colour, add an image, center or full image size to the mousepad
 120. Make a color based setups website (photos, description, price range, links where to buy, like a catalog website, ) for more complexity add dots on the pics to show more info like IKEA 
+121. Employe holidays registered (total days, date begin date end divided into periods/leaves/holiday takes)
