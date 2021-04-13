@@ -124,3 +124,6 @@ Project Ideas for training in new technologies
 121. Employee holidays registered (total days, date begin date end divided into periods/leaves/holiday takes)
 122. Cooking blog with make your own ingredientes database with pictures upload, cost calculation  per recipe considereing price of ingredients etc
 123. Transcribing app, audio to text and - or vice versa 
+124. Translater app 
+125. Gramar correcting app 
+126. 
