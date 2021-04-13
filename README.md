@@ -123,3 +123,4 @@ Project Ideas for training in new technologies
 120. Make a color based setups website (photos, description, price range, links where to buy, like a catalog website, ) for more complexity add dots on the pics to show more info like IKEA 
 121. Employee holidays registered (total days, date begin date end divided into periods/leaves/holiday takes)
 122. Cooking blog with make your own ingredientes database with pictures upload, cost calculation  per recipe considereing price of ingredients etc
+123. Transcribing app, audio to text and - or vice versa 
