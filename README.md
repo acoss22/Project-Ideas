@@ -128,3 +128,4 @@ Project Ideas for training in new technologies
 125. Gramar correcting app 
 126. swiss knife dev app
 127. cool things you can do dev app
+128. Casino like website, games 
