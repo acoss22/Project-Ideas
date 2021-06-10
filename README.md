@@ -130,3 +130,4 @@ Project Ideas for training in new technologies
 127. cool things you can do dev app
 128. Casino like website, games 
 129. Add logo to images (for artists that draw etc...) resize for social media app etc 
+130. Remove watermark and remove background from images app 
